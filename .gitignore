@@ -1,0 +1,41 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Environment folders
+venv/
+env/
+.env/
+
+# IDE files
+.vscode/
+.idea/
+
+# Data files (optional: add if you don't want to commit large raw data)
+# data/
+# *.csv
+# *.xlsx
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Ignore Python egg info
+*.egg-info/
+
+# Ignore build and dist folders
+build/
+dist/
+
+# Ignore coverage reports
+.coverage
+htmlcov/
+
+# Ignore pytest cache
+.pytest_cache/
