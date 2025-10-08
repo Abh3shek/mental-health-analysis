@@ -15,9 +15,9 @@ env/
 .idea/
 
 # Data files (optional: add if you don't want to commit large raw data)
-# data/
-# *.csv
-# *.xlsx
+data/
+*.csv
+*.xlsx
 
 # Logs
 *.log
