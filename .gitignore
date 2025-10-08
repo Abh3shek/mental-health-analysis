@@ -14,8 +14,8 @@ env/
 .vscode/
 .idea/
 
-# Data files (optional: add if you don't want to commit large raw data)
-data/
+# Data files
+/data/
 *.csv
 *.xlsx
 
